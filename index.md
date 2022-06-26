@@ -31,4 +31,4 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Learning a new skill online? Join me Tuesdays, Thursdays, and Fridays for Tina Huang's [Study with Tina](https://www.youtube.com/channel/UCI8JpGrDmtggrryhml8kFGw) programme. 
 
-![](/Images/20439.jpg)
+![_](/Images/20439.jpg)
