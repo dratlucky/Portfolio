@@ -30,3 +30,5 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 + Getting fluent!
 
 Learning a new skill online? Join me Tuesdays, Thursdays, and Fridays for Tina Huang's [Study with Tina](https://www.youtube.com/channel/UCI8JpGrDmtggrryhml8kFGw) programme. 
+
+(https://github.com/dratlucky/MG_Portfolio/blob/f6f40bde3374589fb1cf582b238e6538dac84335/Images/20439.jpg)
