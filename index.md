@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/dratlucky/MG_Portfolio/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Cliche Google Data Analytics Capstone Project
+### Project 1: Cliche Google Data Analytics Capstone 
 #### Cyclistic Fictitious Data
 + Downloaded CSV files
 + Got annoyed with Excel
@@ -12,20 +12,20 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 + Switched to R
 + Confused now but no longer irked, at least
 
-### Trite Google Data Analytics Capstone Project
+### Project 2: Trite Google Data Analytics Capstone 
 #### Bellabeat Fictitious Data
 + More comfortable in R this time
 + Going for completion
 + Going for speed
 + Coding hard in a time of need
 
-### Eyebrow-raising Independent Google Analytics Capstone Project
+### Project 3: Eyebrow-raising Independent Google Analytics Capstone 
 #### Police events in Arlington, TX?
 + New dataset
 + _Now_ we're talking
 + Juicy reveal?
 
-### Masterful R Project
+### Project 4: Masterful R Piece
 #### Girl I didn't know you could Markdown like that
 + Getting fluent!
 
