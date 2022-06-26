@@ -1,9 +1,5 @@
 ## Melanie Gruben's Portfolio in Progrolio
 
-You can use the [editor on GitHub](https://github.com/dratlucky/MG_Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Project 1: Cliche Google Data Analytics Capstone 
 #### Cyclistic Fictitious Data
 + Downloaded CSV files
@@ -31,4 +27,4 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Learning a new skill online? Join me Tuesdays, Thursdays, and Fridays for Tina Huang's [Study with Tina](https://www.youtube.com/channel/UCI8JpGrDmtggrryhml8kFGw) programme. 
 
-![_](/Images/20439.jpg)
+![_](Images/57493774a6aa0ffe942609bd0e8a5672-2370799067.jpg)
