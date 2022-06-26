@@ -6,25 +6,25 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Cliche Google Data Analytics Capstone Project
 #### Cyclistic Fictitious Data
--Downloaded CSV files
--Got annoyed with Excel
--Was irked by Google Sheets
--Switched to R
--Confused now but no longer irked, at least
++ Downloaded CSV files
++ Got annoyed with Excel
++ Was irked by Google Sheets
++ Switched to R
++ Confused now but no longer irked, at least
 
 ### Trite Google Data Analytics Capstone Project
 #### Bellabeat Fictitious Data
--More comfortable in R this time
--Going for completion
--Going for speed
--Coding hard in a time of need
++ More comfortable in R this time
++ Going for completion
++ Going for speed
++ Coding hard in a time of need
 
 ### Eyebrow-raising Independent Google Analytics Capstone Project
 #### Police events in Arlington, TX?
--New dataset
--_Now_ we're talking
--Juicy reveal?
++ New dataset
++ _Now_ we're talking
++ Juicy reveal?
 
 ### Masterful R Project
 #### Girl I didn't know you could Markdown like that
-+Getting fluent!
++ Getting fluent!
