@@ -28,3 +28,5 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Masterful R Project
 #### Girl I didn't know you could Markdown like that
 + Getting fluent!
+
+Learning a new skill online? Join me Tuesdays, Thursdays, and Fridays for Tina Huang's [Study with Tina](https://www.youtube.com/channel/UCI8JpGrDmtggrryhml8kFGw) programme. 
